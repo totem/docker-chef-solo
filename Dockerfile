@@ -1,4 +1,5 @@
 FROM ubuntu:13.04
+MAINTAINER Devon Tackett devon.tackett@meltmedia.com
 
 # Install Chef
 RUN apt-get -y update
